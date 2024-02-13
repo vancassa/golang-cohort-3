@@ -1,0 +1,3 @@
+module miniChallenge
+
+go 1.21.6
