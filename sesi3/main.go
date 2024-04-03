@@ -125,7 +125,7 @@ func calculate (num1, num2 float64) (float64, float64) {
 func calculateWithPredefined(num1, num2 float64) (multiplied float64, divided float64) {
 	multiplied = num1 * num2
 	divided = num1 / num2
-	return //still must return
+	return //still must return, it will return 'multiplied' and 'divided'
 }
 
 func variadicFunction (name string, favGroups ...string)  {
